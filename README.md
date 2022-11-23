@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi there this is Gunjita Wahi
 #### Programmer || Web Developer 
-![Programmer || Web Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Programmer || Web Developer ]
 
 Seeking a Software Developer role to enhance and explore my technical knowledge gained in the field of Computer Science and I also have a keen interest in QA field .
 
